@@ -37,7 +37,7 @@ _Breaking changes, which may affect downstream projects or sites that embed iD, 
 * :mask: You can now specify when places are open during coronavirus lockdowns with the COVID-19 Pandemic Hours field
 
 #### :boom: Breaking Changes
-* Rename the default branch, previously `2.x`, to `develop`,
+* Rename the default branch, previously `2.x`, to `develop`
 * Rename the v3 beta branch, previously `master`, to `v3-prototype`
 * Update links to iD's documentation on GitHub for the changed branch names ([#7453])
 * Update iD's privacy policy to reflect the changed branch names
